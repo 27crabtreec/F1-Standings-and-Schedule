@@ -1,0 +1,21 @@
+body{ background-image: url(https://www.formularace.it/wp-content/uploads/2021/05/Charles-Leclerc-FP2-GP-Monaco-F1-2021.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment:fixed;}
+h1{ font-size: 40px;
+color: red;
+text-align:center;}
+h2{font-size:30px;
+color: red;
+text-align: left;}
+h3{font-size:30px;
+color: red;
+text-align: right;
+margin-left: 1000px;}
+.item p {color: red;}
+.inline-block{
+display: inline;
+}
+.right{
+margin-left: 1000px;}
