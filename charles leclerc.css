@@ -28,4 +28,5 @@ form{ color: white;}
 h4{font-size:30px;
 color: red;
 text-align: left;}
-footer{ display:block;}
+a{ display:block;
+ margin-bottom: 10px;}
